@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Life Tracker</string>
+
+    <string name="player_one_name">Player One</string>
+    <string name="player_two_name">Player Two</string>
+    <string name="player_three_name">Player Three</string>
+    <string name="player_four_name">Player Four</string>
+    <string name="player_five_name">Player Five</string>
+    <string name="player_six_name">Player Six</string>
 </resources>
